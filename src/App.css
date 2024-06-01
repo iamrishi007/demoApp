@@ -1,0 +1,12 @@
+#card {
+     display: grid;
+     grid-template-columns: repeat(3, 1fr);
+     gap: 10px;
+     text-align: center;
+     align-items: center;
+     align-content: center;
+}
+
+img {
+     height: 200px;
+}
